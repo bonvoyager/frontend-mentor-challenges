@@ -66,3 +66,12 @@ a{
 .profile-links:hover button{
   cursor: pointer;
 }
+.github-button, .frontend-mentor-button, .twitter-button, .linkedin-button, .instagram-button{
+  transition: background-color 0.15s ease, color 0.15s ease;
+
+}
+.github-button:hover, .frontend-mentor-button:hover, .twitter-button:hover, .linkedin-button:hover, .instagram-button:hover{
+  background-color: hsl(75, 94%, 57%);
+  color: hsl(0, 0%, 20%);
+  caret-color: black;
+}
