@@ -6,7 +6,7 @@ A responsive card component built with HTML and CSS.
 [Click here to view](https://bonvoyager.github.io/frontend-mentor-challenges/social-links-profile-main/)
 
 ## 📸 Preview
-![Card Preview](social-links-profile-main/preview.jpg)
+[Card Preview](social-links-profile-main/preview.jpg)
 
 ## 🛠️ Built With
 - HTML5
