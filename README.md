@@ -1,18 +1,14 @@
-# HTML & CSS Card Component
+# Frontend Mentor Challenges
 
-A responsive card component built with HTML and CSS.
+This is a collection of solutions to the challenges in the Frontend Mentor program. Currently I am currently working on adding more solutions here and upskilling in frontend development simultaneously.
 
-## 🔗 Live Demo
-[Click here to view]([https://bonvoyager.github.io/index.html)](https://bonvoyager.github.io/frontend-mentor-challenges/)
+## 🔗 Blog Card Preview
+[Repo]([blog-preview-card-main)]
 
-## 📸 Preview
-![Card Preview](design/active-states.jpg)
+## 🔗 Social Media Links Profile
+[Repo](social-links-profile)
 
 ## 🛠️ Built With
 - HTML5
 - CSS3
 
-## 📚 What I Learned
-- Flexbox layouts
-- Box model
-- CSS variables
