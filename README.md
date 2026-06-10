@@ -3,7 +3,7 @@
 This is a collection of solutions to the challenges in the Frontend Mentor program. Currently I am currently working on adding more solutions here and upskilling in frontend development simultaneously.
 
 ## 🔗 Blog Card Preview
-[Repo]([blog-preview-card-main)]
+[Open Folder](https://github.com/bonvoyager/frontend-mentor-challenges/tree/afb8c338f297feb157fd0f6846acea6599a9cbf9/blog-preview-card-main)
 
 ## 🔗 Social Media Links Profile
 [Repo](social-links-profile)
