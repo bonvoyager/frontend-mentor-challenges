@@ -11,7 +11,7 @@ This is a collection of solutions to the challenges in the Frontend Mentor progr
 <img src="blog-preview-card-main/preview.jpg" width="500">
 
 ## 🔗 Social Media Links Profile
-[Open Folder]([social-links-profile](https://github.com/bonvoyager/frontend-mentor-challenges/tree/afb8c338f297feb157fd0f6846acea6599a9cbf9/social-links-profile-main))
+[Open Folder](https://github.com/bonvoyager/frontend-mentor-challenges/tree/afb8c338f297feb157fd0f6846acea6599a9cbf9/social-links-profile-main)
 
 ## 🔗 Live Demo
 [Click here to view](https://bonvoyager.github.io/frontend-mentor-challenges/blog-preview-card-main/)
