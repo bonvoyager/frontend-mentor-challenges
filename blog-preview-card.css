@@ -9,6 +9,7 @@ body {
   align-items: center;
   padding: 20px;
   box-sizing: border-box;
+  
 }
 
 /* CHANGE 7: changed from div to <a> tag styles, removed default link styles */
