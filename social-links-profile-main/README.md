@@ -3,7 +3,7 @@
 A responsive card component built with HTML and CSS.
 
 ## 🔗 Live Demo
-[Click here to view]([https://bonvoyager.github.io/index.html)](https://bonvoyager.github.io/frontend-mentor-challenges/)
+[Click here to view](https://bonvoyager.github.io/frontend-mentor-challenges/social-links-profile-main/)
 
 ## 📸 Preview
 ![Card Preview](social-links-profile-main/preview.jpg)
