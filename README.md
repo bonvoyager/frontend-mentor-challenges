@@ -5,7 +5,7 @@ This is a collection of solutions to the challenges in the Frontend Mentor progr
 ## 🔗 Blog Card Preview
 [Open Folder](https://github.com/bonvoyager/frontend-mentor-challenges/tree/afb8c338f297feb157fd0f6846acea6599a9cbf9/blog-preview-card-main)
 ## 📸 Preview
-![Card Preview](blog-preview-card-main/preview.jpg)
+<img src="blog-preview-card-main/preview.jpg" width="300">
 
 ## 🔗 Social Media Links Profile
 [Open Folder]([social-links-profile](https://github.com/bonvoyager/frontend-mentor-challenges/tree/afb8c338f297feb157fd0f6846acea6599a9cbf9/social-links-profile-main))
