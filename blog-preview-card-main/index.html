@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<!-- CHANGE 1: added lang attribute -->
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <!-- CHANGE 2: added viewport meta tag for responsiveness -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="blog-preview-card.css">
+</head>
+<body>
+
+  <!-- CHANGE 3: wrapped entire card in <a> tag making it keyboard accessible and focusable -->
+  <a href="#" class="preview-container">
+
+    <img 
+      class="thumbnail-image" 
+      src="assets/images/illustration-article.svg"
+      alt="Illustration of HTML and CSS article">
+
+    <div class="course-info-container">
+      <span class="course-status">Learning</span>
+      <p class="publish-date">Published 21 Dec 2023</p>
+      <!-- CHANGE 5: changed <p> to <h2> for proper heading semantics -->
+      <h2 class="course-name">HTML & CSS foundations</h2>
+      <p class="course-description">These languages are the backbone of every website, defining structure, content, and presentation.</p>
+    </div>
+
+    <div class="author-info-container">
+      <img 
+        class="author-photo" 
+        src="assets/images/image-avatar.webp"
+        alt="Photo of author Greg Hooper"
+      >
+      <span class="author-name">Greg Hooper</span>
+    </div>
+
+  </a>
+
+</body>
+</html>
